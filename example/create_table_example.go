@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/dailyburn/bigquery/client"
+	"github.com/Tesla-SCA/bigquery/client"
 )
 
 const PROJECTID = "your-projectid"
